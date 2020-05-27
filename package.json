@@ -1,0 +1,16 @@
+{
+  "name": "testjob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google": "^2.1.0",
+    "google-it": "^1.5.0",
+    "google-search-results-serpwow": "0.0.12"
+  }
+}
